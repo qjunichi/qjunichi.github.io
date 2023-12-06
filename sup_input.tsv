@@ -1,0 +1,258 @@
+code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendor_id	thema_ids	subject_ids	title	comments
+2211.04728	TRUE	2022/11/9 7:54	2022	448743295	17	Google	D	1	Overcoming leakage in scalable quantum error correction	
+2211.01275	TRUE	2022/11/2 16:59	2022	448677078	23	IonQ		"1,58,3,7"	Continuous Symmetry Breaking in a Trapped-Ion Spin Chain	
+2210.10799	TRUE	2022/10/19 18:00	2022	448537500	20	Google		1	Purification-based quantum error mitigation of pair-correlated electron   simulations	
+2210.10255	TRUE	2022/10/19 2:28	2022	448531032	25	Google		"1,8,60"	Observation of non-Abelian exchange statistics on a superconducting   processor	
+2209.14316	TRUE	2022/9/28 18:00	2022	448327500	11	IonQ		"1,60"	Experimental Implementation of an Efficient Test of Quantumness	
+2209.12889	TRUE	2022/9/26 17:59	2022	448307493	20	Quantinuum		"1,3,7"	Characterizing a non-equilibrium phase transition on a quantum computer	
+2209.05509	TRUE	2022/9/12 18:01	2022	448167507	10	IonQ		"1,3"	Engineering dynamically decoupled quantum simulations with trapped ions	
+2208.01863	TRUE	2022/8/3 6:20	2022	447762640	16	Quantinuum		1	Implementing Fault-tolerant Entangling Gates on the Five-qubit Code and   the Color Code	
+2207.06431	TRUE	2022/7/13 18:00	2022	447557500	49	Google		1	Suppressing quantum errors by scaling a surface code logical qubit	
+2206.08811	TRUE	2022/6/17 14:42	2022	447296131	16	Quantinuum	3	1	Spectral analysis for noise diagnostics and filter-based digital error   mitigation	
+2206.05254	TRUE	2022/6/10 17:52	2022	447227447	24	Google		"1,8,60"	Formation of robust bound states of interacting microwave photons	
+2204.11372	TRUE	2022/4/24 22:34	2022	446759404	47	Google		"1,8,60"	Noise-resilient Edge Modes on a Chain of Superconducting Qubits	
+2204.09725	TRUE	2022/4/20 18:13	2022	446717590	5	IBM	3	1	Volumetric Benchmarking of Error Mitigation with Qermit	
+2112.05156	TRUE	2021/12/9 19:00	2021	445397916	11	IonQ		"1,60"	Interactive Protocols for Classically-Verifiable Quantum Advantage	
+2112.02025	TRUE	2021/12/3 17:14	2021	445337182	16	Google		"1,43,7"	Observing ground-state properties of the Fermi-Hubbard model using a   scalable algorithm on a quantum computer	
+2112.00778	TRUE	2021/12/1 19:04	2021	445317949	40	Google		"1,17,18"	Quantum advantage in learning from experiments	
+2111.15605	TRUE	2021/11/30 17:56	2021	445307474	16	Rigetti		"1,18"	Synthetic weather radar using hybrid quantum-classical machine learning	
+2109.13298	TRUE	2021/9/27 18:36	2021	444667753	4	IonQ		"1,24"	Digital quantum simulation of NMR experiments	
+2108.12518	TRUE	2021/8/27 22:29	2021	444359374	42	IBM		1	Scalable mitigation of measurement errors on quantum computers	
+2108.09197	TRUE	2021/8/20 14:32	2021	444286057	26	IBM		"1,8"	Scalable error mitigation for noisy quantum circuits produces   competitive expectation values	
+2107.13571	TRUE	2021/7/28 18:00	2021	444057500	21	Google		"1,2,3,7"	Observation of Time-Crystalline Eigenstate Order on a Quantum Processor	
+2107.11387	TRUE	2021/7/23 18:00	2021	444007500	13	IonQ		1	Cross-Platform Comparison of Arbitrary Quantum Computations	
+2107.07505	TRUE	2021/7/15 17:57	2021	443927485	10	Honeywell		1	Realization of real-time fault-tolerant quantum error correction	
+2106.05881	TRUE	2021/6/10 16:08	2021	443576728	13	IonQ		1	Observation of measurement-induced quantum phases in a trapped-ion   quantum computer	
+2105.05068	TRUE	2021/5/11 14:20	2021	443275973	9	IonQ		1	Optimizing Stabilizer Parities for Improved Logical Qubit Memories	
+2105.03406	TRUE	2021/5/7 17:38	2021	443237353	27	IBM		1	Covariant quantum kernels for data with group structure	
+2104.11235	TRUE	2021/4/22 18:00	2021	443087500	6	Honeywell		"1,58"	Entanglement from tensor networks on a trapped-ion QCCD quantum computer	
+2104.01180	TRUE	2021/4/2 18:00	2021	442887500	31	Google	3	"1,7"	Realizing topologically ordered states on a quantum processor	
+2102.06132	TRUE	2021/2/11 17:11	2021	442387162	21	Google		1	Exponential suppression of bit or phase flip errors with repetitive   error correction	
+2102.06131	TRUE	2021/2/11 17:11	2021	442387160	21	Google		1	Removing leakage-induced correlated errors in superconducting quantum   error correction	
+2102.01682	TRUE	2021/2/2 18:51	2021	442297856	10	IBM		1	Exploiting dynamic quantum circuits in a quantum algorithm with   superconducting qubits	
+2102.00371	FALSE	2021/1/31 4:00	2021	442271672	10	IBM		"1,10"	Comparison of Cloud-Based Ion Trap and Superconducting Quantum Computer   Architectures	
+2101.08870	TRUE	2021/1/21 22:18	2021	442179297	21	Google		"1,7,4"	Information Scrambling in Computationally Complex Quantum Circuits	
+2012.00921	TRUE	2020/12/2 1:42	2020	441670710	18	Google		1	Accurately computing electronic properties of a quantum ring	
+2010.07965	TRUE	2020/10/15 18:15	2020	441197610	16	Google	3	1	Observation of separated dynamics of charge and spin in the   Fermi-Hubbard model	
+2009.04648	TRUE	2020/9/10 2:51	2020	440841194	5	IonQ		"1,3,7"	Many Body Thermodynamics on Quantum Computers via Partition Function   Zeros	
+2008.08571	TRUE	2020/8/19 17:54	2020	440627459	6	IBM		1	Demonstration of quantum volume 64 on a superconducting quantum   computing system	
+2004.06052	TRUE	2020/4/13 16:26	2020	439346848	20	IBM		1	Architecture-aware synthesis of phase polynomials for NISQ devices	
+2004.04174	TRUE	2020/4/8 18:00	2020	439297500	12	Google		"1,24"	Hartree-Fock on a superconducting qubit quantum computer	
+2003.02354	TRUE	2020/3/4 22:37	2020	438949430	4	IBM		1	Correlated Randomized Benchmarking	
+1912.04368	TRUE	2019/12/9 20:47	2019	438088662	4	Google		"1,18"	Learning Non-Markovian Quantum Noise from Moiré-Enhanced Swap   Spectroscopy with Deep Evolutionary Algorithm	
+1910.06024	TRUE	2019/10/14 10:23	2019	437524328	9	Google		"2,3,7,1"	Direct measurement of non-local interactions in the many-body localized   phase	
+1908.08054	TRUE	2019/8/21 18:00	2019	436987500	10	Rigetti		"1,18"	Automated quantum programming via reinforcement learning for   combinatorial optimization	
+1906.00476	TRUE	2019/6/2 20:27	2019	436188521	5	IonQ	4	"1,12"	Noise reduction using past causal cones in variational quantum   algorithms	
+1904.04338	TRUE	2019/4/8 20:10	2019	435638403	4	IonQ	3	"1,10,13"	Toward convergence of effective field theory simulations on digital   quantum computers	
+1903.08181	TRUE	2019/3/19 18:00	2019	435437501	11	IonQ		1	Benchmarking an 11-qubit quantum computer	
+1902.10171	TRUE	2019/2/26 19:12	2019	435228000	4	IonQ		"1,10"	Ground-state energy estimation of the water molecule on a trapped ion   quantum computer	
+1812.08862	TRUE	2018/12/20 21:47	2018	434549079	4	IonQ		1	Training of Quantum Circuits on a Hybrid Quantum Computer	
+1811.12926	TRUE	2018/11/30 18:25	2018	434347679	20	IBM		1	Validating quantum computers using randomized model circuits	
+1810.11948	TRUE	2018/10/29 4:15	2018	434021773	4	IonQ		"1,10"	Parallel Entangling Operations on a Universal Ion Trap Quantum Computer	
+1806.02807	TRUE	2018/6/7 17:35	2018	432587326	7	IonQ		1	Verified Quantum Information Scrambling	
+1805.04492	TRUE	2018/5/11 17:04	2018	432317115	4	IBM		1	Extending the computational reach of a noisy superconducting quantum   processor	
+1804.11326	TRUE	2018/4/30 17:14	2018	432207181	5	IBM		"1,25"	Supervised learning with quantum enhanced feature spaces	
+1804.03680	TRUE	2018/4/10 18:34	2018	432007742	4	IBM		1	Hierarchical quantum classifiers	
+1802.08116	TRUE	2018/2/22 15:56	2018	431536639	5	IonQ		1	Demonstration of Bayesian quantum game on an ion trap quantum computer	
+1712.08581	TRUE	2017/12/22 17:19	2017	430917221	5	IonQ		1	Measuring the Renyi entropy of a two-site Fermi-Hubbard model on a   trapped ion quantum computer	
+1712.06550	TRUE	2017/12/18 17:50	2017	430877435	3	IBM		1	Three Qubit Randomized Benchmarking	
+1712.05771	TRUE	2017/12/15 18:00	2017	430847500	19	Rigetti		1	Unsupervised Machine Learning on a Hybrid Quantum Computer	
+1709.07108	TRUE	2017/9/21 0:14	2017	429990103	9	Google		1	Spectral signatures of many-body localization with interacting photons	
+1709.06678	TRUE	2017/9/19 23:35	2017	429979830	9	Google		1	A blueprint for demonstrating quantum supremacy with superconducting   qubits	
+1705.09259	TRUE	2017/5/25 16:54	2017	428807047	5	IBM		1	Experimental demonstration of fault-tolerant state preparation with   superconducting qubits	
+1704.05018	TRUE	2017/4/17 16:26	2017	428426852	6	IBM	4	"1,6"	Hardware-efficient Variational Quantum Eigensolver for Small Molecules   and Quantum Magnets	
+1703.10535	TRUE	2017/3/30 15:41	2017	428246540	4	IonQ		"1,10"	Complete 3-Qubit Grover Search on a Programmable Quantum Computer	
+1702.01852	TRUE	2017/2/7 2:42	2017	427731130	4	IonQ		"1,10"	Experimental Comparison of Two Quantum Computing Architectures	
+1611.06946	TRUE	2016/11/21 18:49	2016	426957843	5	IonQ		1	Fault-tolerant quantum error detection	
+1606.00077	TRUE	2016/6/1 0:08	2016	425220058	3	Google		1	Chiral groundstate currents of interacting photons in a synthetic   magnetic field	
+1605.01351	TRUE	2016/5/4 17:14	2016	424947182	5	IBM		1	Demonstration of weight-four parity measurements in the surface code   architecture	
+1603.04821	TRUE	2016/3/15 19:03	2016	424447939	2	IBM		1	Procedure for systematically tuning up crosstalk in the cross resonance   gate	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
+0	0				0	0	0		0	
