@@ -21,11 +21,11 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 2108.09197	TRUE	2021/8/20 14:32	2021	444286057	26	IBM		"1,8"	Scalable error mitigation for noisy quantum circuits produces   competitive expectation values	
 2107.13571	TRUE	2021/7/28 18:00	2021	444057500	21	Google		"1,2,3,7"	Observation of Time-Crystalline Eigenstate Order on a Quantum Processor	
 2107.11387	TRUE	2021/7/23 18:00	2021	444007500	13	IonQ		1	Cross-Platform Comparison of Arbitrary Quantum Computations	
-2107.07505	TRUE	2021/7/15 17:57	2021	443927485	10	Honeywell		1	Realization of real-time fault-tolerant quantum error correction	
+2107.07505	TRUE	2021/7/15 17:57	2021	443927485	10	Quantinuum		1	Realization of real-time fault-tolerant quantum error correction	
 2106.05881	TRUE	2021/6/10 16:08	2021	443576728	13	IonQ		1	Observation of measurement-induced quantum phases in a trapped-ion   quantum computer	
 2105.05068	TRUE	2021/5/11 14:20	2021	443275973	9	IonQ		1	Optimizing Stabilizer Parities for Improved Logical Qubit Memories	
 2105.03406	TRUE	2021/5/7 17:38	2021	443237353	27	IBM		1	Covariant quantum kernels for data with group structure	
-2104.11235	TRUE	2021/4/22 18:00	2021	443087500	6	Honeywell		"1,58"	Entanglement from tensor networks on a trapped-ion QCCD quantum computer	
+2104.11235	TRUE	2021/4/22 18:00	2021	443087500	6	Quantinuum		"1,58"	Entanglement from tensor networks on a trapped-ion QCCD quantum computer	
 2104.01180	TRUE	2021/4/2 18:00	2021	442887500	31	Google	3	"1,7"	Realizing topologically ordered states on a quantum processor	
 2102.06132	TRUE	2021/2/11 17:11	2021	442387162	21	Google		1	Exponential suppression of bit or phase flip errors with repetitive   error correction	
 2102.06131	TRUE	2021/2/11 17:11	2021	442387160	21	Google		1	Removing leakage-induced correlated errors in superconducting quantum   error correction	

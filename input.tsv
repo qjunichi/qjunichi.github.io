@@ -100,7 +100,7 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 2204.10061	FALSE	2022/4/21 12:50	2022	446725352	6	IonQ	A	1	Scalable measures of magic for quantum computers	　
 2204.07109	FALSE	2022/4/14 16:58	2022	446657075	8	IBM	"E,F2"	1	Improving the efficiency of learning-based error mitigation	　
 2204.06056	FALSE	2022/4/12 19:39	2022	446638191	4	IBM	B	1	Quantum circuit debugging and sensitivity analysis via local inversions	3 qubit での実験も実行
-2204.05852	FALSE	2022/4/12 14:51	2022	446636189	4	IonQ 11 qubit processor	"E,F5"	1	Characterizing Error Mitigation by Symmetry Verification in QAOA	3 qubit での実験も実行
+2204.05852	FALSE	2022/4/12 14:51	2022	446636189	4	IonQ	"E,F5"	1	Characterizing Error Mitigation by Symmetry Verification in QAOA	3 qubit での実験も実行
 2204.05286	FALSE	2022/4/11 17:43	2022	446627388	3	IBM	F1	1	Expressivity of Variational Quantum Machine Learning on the Boolean Cube	IBM Casablanca では 2 qubit 使用
 2204.04017	FALSE	2022/4/8 12:05	2022	446595037	8	IBM	F1	"1,18,24"	Quantum Machine Learning Framework for Virtual Screening in Drug   Discovery: a Prospective Quantum Advantage	　
 2204.02147	FALSE	2022/4/5 12:17	2022	446565120	1	IBM	B	1	High-fidelity quantum control by polychromatic pulse trains	　
@@ -123,7 +123,7 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 2203.07219	FALSE	2022/3/14 15:59	2022	446346663	2	IBM	F3	"1,43,24"	Extending the reach of quantum computing for materials science with   machine learning potentials	　
 2203.07183	FALSE	2022/3/14 15:23	2022	446346413	7	IBM	C	"10,1"	QuFI: a Quantum Fault Injector to Measure the Reliability of Qubits and   Quantum Circuits	　
 2203.06745	FALSE	2022/3/13 19:49	2022	446338260	8	IBM	F2	1	Comparative study of adaptive variational quantum eigensolvers for   multi-orbital impurity models	　
-2203.03816	FALSE	2022/3/8 2:31	2022	446281051	9	Honeywell	C	"1,10"	Quantum Volume in Practice: What Users Can Expect from NISQ Devices	他にも多数のデバイス使用
+2203.03816	FALSE	2022/3/8 2:31	2022	446281051	9	Quantinuum	C	"1,10"	Quantum Volume in Practice: What Users Can Expect from NISQ Devices	他にも多数のデバイス使用
 2203.03745	FALSE	2022/3/7 22:13	2022	446279261	4	IBM	F11	"1,17,5"	Self-restricting Noise in Quantum Dynamics	　
 2203.01478	FALSE	2022/3/3 1:43	2022	446230716	3	IBM	F8	"13,1"	Simulating excited states of the Lipkin model on a quantum computer	
 2203.00886	FALSE	2022/3/2 5:58	2022	446222488	10	Quantinuum	"F8,F2"	"1,7"	Holographic quantum simulation of entanglement renormalization circuits	H1-1かH1-2か書いてない
@@ -408,7 +408,7 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 2009.07601	FALSE	2020/9/16 11:01	2020	440904590	6	IBM	B	"1,18"	Efficient Quantum State Sample Tomography with Basis-dependent   Neural-networks	
 2009.07425	FALSE	2020/9/16 2:19	2020	440900968	5	IBM	A	1	Benchmarking Quantum State Transfer on Quantum Devices using   Spatio-Temporal Steering	"本文中ではQutechのstarmon-5とspin-2も利用。AppendixではIBM Almaden, Cambridge, London, Parisも使用。"
 2009.07375	FALSE	2020/9/15 22:29	2020	440899368	8	IBM	F2	"1,7"	Digital Quantum Simulation of Non-Equilibrium Quantum Many-Body Systems	
-2009.06601	FALSE	2020/9/14 17:36	2020	440887334	5	Honeywell	F13	1	The Efficient Preparation of Normal Distributions in Quantum Registers	正規分布の生成。QPUはH0とH1-2を使用。
+2009.06601	FALSE	2020/9/14 17:36	2020	440887334	5	Quantinuum	F13	1	The Efficient Preparation of Normal Distributions in Quantum Registers	正規分布の生成。QPUはH0とH1-2を使用。
 2009.05840	FALSE	2020/9/12 18:15	2020	440867609	1	IBM	F13	1	A hybrid scheme for prime factorization and its experimental   implementation using IBM quantum processor	量子古典ハイブリッドアルゴリズムによる素因数分解
 2009.04584	FALSE	2020/9/9 21:44	2020	440839056	15	IBM	A	1	Design of a Quantum-Repeater using Quantum-Circuits and benchmarking its   performance on an IBM Quantum-Computer	
 2009.04484	FALSE	2020/9/9 18:00	2020	440837501	4	IBM	F6	1	Enhancing the Quantum Linear Systems Algorithm using Richardson   Extrapolation	
