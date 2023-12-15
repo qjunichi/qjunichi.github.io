@@ -8,6 +8,7 @@ function all_on(id) {
   var boxes = document.querySelectorAll(id + " input");
   for(var i = 0, len = boxes.length; i < len; i++) {
     boxes[i].checked = "checked";
+    boxes[i].setAttribute("checked", "checked");
   }
 }
 
@@ -15,6 +16,7 @@ function all_off(id) {
   var boxes = document.querySelectorAll(id + " input");
   for(var i = 0, len = boxes.length; i < len; i++) {
     boxes[i].checked = false;
+    boxes[i].setAttribute("checked", false);
   }
 }
 function toggle_f() {
@@ -88,7 +90,7 @@ function tsvToJson(tsv) {
       var attr = columns[j];
       paper[columns[j]] = record[j];
     }
-    if(parseInt(paper.submitted_year) > 2000) {
+    if (parseInt(paper["submitted_year"]) > 2000 ) {
       result.push(paper);
     }
   }
@@ -106,7 +108,7 @@ function vuePapers() {
     el: '#papers',
     data: {
       message: 'Sort Column In Table',
-      papers: [],
+      papers:[],
       vendors: [],
       themas: [],
       subjects: [],
@@ -185,7 +187,7 @@ function vuePapers() {
         var values = [];
         for(var i = 0, len = tags.length; i < len; i++) {
           if(tags[i].checked) {
-            values.push(parseInt(tags[i].value));
+            values.push(tags[i].value);
           }
         }
         return values;
@@ -249,10 +251,19 @@ function vuePapers() {
       },
       firstPapers(data) {
         this.importPapers(data);
-        axios.get('/sup_input.tsv?' + Date.now()).then(response => this.initialPapers(response.data))
+        axios.get('./sup_input.tsv?' + Date.now()).then(response => this.initialPapers(response.data))
       },
       initialPapers(data) {
         this.importPapers(data);
+        var submitted_year_list = {};
+        for(var i = 0, len = this.papers.length; i < len; i++) {
+          var year = this.papers[i].submitted_year;
+          submitted_year_list[year] = true;
+        }
+        submitted_year_list = Object.keys(submitted_year_list).sort();
+        for(var i = 0, len = submitted_year_list.length; i < len; i++){
+          this.submitted_years[submitted_year_list[i]] = i;
+        }
         this.displayGraphs();
       },
       importPapers(data) {
@@ -260,19 +271,6 @@ function vuePapers() {
         this.vendors = this.selectedValues(document.querySelectorAll("#vendors input.vendors"));
         this.themas = this.selectedValues(document.querySelectorAll("#themas input.themas"));
         this.subjects = this.selectedValues(document.querySelectorAll("#subjects input.subjects"));
-        var submitted_years = [];
-        for(var i = 0, len = this.papers.length; i < len; i++) {
-          var year = this.papers[i].submitted_year;
-          if(year) {
-            if(submitted_years.indexOf(year) == -1) {
-              submitted_years.push(year);
-            }
-          }
-        }
-        submitted_years = submitted_years.sort();
-        for(var i = 0, len = submitted_years.length; i < len; i++){
-          this.submitted_years[submitted_years[i]] = i;
-        }
       },
     },
     computed: {
@@ -292,7 +290,7 @@ function vuePapers() {
       },
     },
     mounted(){
-      axios.get('/input.tsv?' + Date.now()).then(response => this.firstPapers(response.data))
+      axios.get('./input.tsv?' + Date.now()).then(response => this.firstPapers(response.data))
     },
   })
 };

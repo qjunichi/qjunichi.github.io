@@ -8,8 +8,8 @@ function vendorNonvendorBarChart(papers, submitted_years) {
 
   for(var i = 0, len = papers.length; i < len; i++) {
     var paper = papers[i];
-    var count = parseInt(paper.max_qubit_count);
-    if(count > 0){
+    count = parseInt(paper.max_qubit_count);
+    if(count >0){
       index = paper.vendor_flag == "TRUE" ? 1 : 0;
       if(datasets[index][submitted_years[paper.submitted_year]] < count){
         datasets[index][submitted_years[paper.submitted_year]] = count;
