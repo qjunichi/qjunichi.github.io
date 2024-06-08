@@ -1,4 +1,27 @@
 code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendor_id	thema_ids	subject_ids	title	comments
+2212.14781	TRUE	2022/12/30 15:38	2022	449256520	0	IonQ	F6		Adapting the HHL algorithm to quantum many-body theory	
+2212.14170	TRUE	2022/12/29 4:20	2022	449241809	1	IBM	F9		Simulating neutrino oscillations on a superconducting qutrit	高次励起状態にもアクセスし、qutritとして量子ビットを制御
+2212.13834	TRUE	2022/12/28 14:36	2022	449236085	4	IBM	F11		Simulating noisy quantum channels via quantum state preparation   algorithms	
+2212.13511	TRUE	2022/12/27 14:57	2022	449226234	17	Quantinuum	F3		Digitized-Counterdiabatic Quantum Algorithm for Protein Folding	Google rainbow simlatorも利用
+2212.12953	FALSE	2022/12/25 20:02	2022	449208353	0	0			Simulation of Networked Quantum Computing on Encrypted Data	卒論のため、対象外とした
+2212.12911	TRUE	2022/12/25 14:31	2022	449206052	4	IBM	F3		PANSATZ: Pulse-based Ansatz for Variational Quantum Algorithms	
+2212.11036	TRUE	2022/12/21 14:23	2022	449165998	6	IBM	B		Algorithmic Shadow Spectroscopy	
+2212.10642	TRUE	2022/12/20 20:38	2022	449158603	7	IBM	B		Mitigating Coupling Map Constrained Correlated Measurement Errors on   Quantum Devices	IBM Manillaも使用
+2212.10482	TRUE	2022/12/20 17:56	2022	449157474	5	IBM	F7		Performance of Uncoded Implementation of Grover's Algorithm on Today's   Quantum Processors	
+2212.09915	TRUE	2022/12/19 23:42	2022	449149879	3	IBM	A		Quantum simulation of the generalized-entangled quantum eraser and the   related complete complementarity relations	
+2212.07500	TRUE	2022/12/14 20:45	2022	449098649	14	IBM	C		Concepts and conditions for error suppression through randomized   compiling	
+2212.05493	TRUE	2022/12/11 12:42	2022	449065296	8	IBM	B		Error suppression by a virtual two-qubit gate	
+2212.05333	TRUE	2022/12/10 16:31	2022	449056882	4	IBM	E		Applying NOX Error Mitigation Protocols to Calculate Real-time Quantum   Field Theory Scattering Phase Shifts	
+2212.03850	TRUE	2022/12/7 18:45	2022	449027813	6	IBM	F13		SupercheQ: Quantum Advantage for Distributed Databases	
+2212.02482	TRUE	2022/12/5 18:40	2022	449007784	12	IonQ	F3		Orbital-optimized pair-correlated electron simulations on trapped-ion   quantum computers	
+2212.00515	TRUE	2022/12/1 14:10	2022	448965909	3	IonQ	F5		Suppressing unwanted fluctuations in QAOA and approximate quantum   annealing	
+2211.16267	TRUE	2022/11/29 14:54	2022	448946209	4	IBM	A		Simulation of positive operator-valued measures and quantum instruments   via quantum state preparation algorithms	
+2211.15631	TRUE	2022/11/28 18:35	2022	448937745	40	Rigetti	C		Benchmarking simulated and physical quantum processing units using   quantum and hybrid algorithms	
+2211.10555	TRUE	2022/11/19 1:19	2022	448840555	3	IBM	F10		Noise-Resilient Quantum Power Flow	
+2211.10068	TRUE	2022/11/18 7:45	2022	448833233	7	IBM	A		Scrambling and Quantum Teleportation	
+2211.08780	TRUE	2022/11/16 9:12	2022	448813839	20	IBM	F2		Noise-robust ground state energy estimates from deep quantum circuits	
+2211.07539	TRUE	2022/11/14 17:05	2022	448797123	2	IBM	"A,E"		Local predictability and coherence versus distributed entanglement in   entanglement swapping from partially entangled pure states	
+2211.06703	TRUE	2022/11/12 16:46	2022	448776990	12	Quantinuum	D		Protecting Expressive Circuits with a Quantum Error Detection Code	
 2211.04543	TRUE	2022/11/8 20:31	2022	448738548	5	IBM	"F7,B"	1	Better-than-classical Grover search via quantum error detection and   suppression	
 2211.02861	TRUE	2022/11/5 9:28	2022	448703950	7	IBM	F5	"78,18,1"	Feature Selection for Classification with QAOA	
 2211.02684	TRUE	2022/11/4 18:06	2022	448697546	3	IBM	F9	1	Digital quantum simulation of scalar Yukawa coupling: Dynamics following   an interaction quench on IBM Q	
@@ -729,29 +752,6 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 1605.08922	TRUE	2016/5/28 18:17	2016	425187619	5	IBM	A	1	Quantum phase space measurement and entanglement validation made easy	
 1605.05709	TRUE	2016/5/18 19:15	2016	425088027	5	IBM	D	1	Performing Quantum Computing Experiments in the Cloud	5qubit QC利用との記載あり
 1605.04220	TRUE	2016/5/13 15:43	2016	425036552	5	IBM	A	"1,6"	Experimental test of Mermin inequalities on a 5-qubit quantum computer	5qubit QC利用との記載あり
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
-0	0				0	0	0		0	0
 0	0				0	0	0		0	0
 0	0				0	0	0		0	0
 0	0				0	0	0		0	0

@@ -1,5 +1,6 @@
 code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendor_id	thema_ids	subject_ids	title	comments
-2211.04728	TRUE	2022/11/9 7:54	2022	448743295	17	Google	D	1	Overcoming leakage in scalable quantum error correction	
+2212.03937	TRUE	2022/12/7 20:03	2022	449028354	11	IBM	E		Single-shot error mitigation by coherent Pauli checks	
+2211.04728	TRUE	2022/11/9 7:54	2022	448743295	17	Google		1	Overcoming leakage in scalable quantum error correction	
 2211.01275	TRUE	2022/11/2 16:59	2022	448677078	23	IonQ		"1,58,3,7"	Continuous Symmetry Breaking in a Trapped-Ion Spin Chain	
 2210.10799	TRUE	2022/10/19 18:00	2022	448537500	20	Google		1	Purification-based quantum error mitigation of pair-correlated electron   simulations	
 2210.10255	TRUE	2022/10/19 2:28	2022	448531032	25	Google		"1,8,60"	Observation of non-Abelian exchange statistics on a superconducting   processor	
@@ -67,7 +68,6 @@ code	vendor_flag	submitted_at	submitted_year	submitted_num	max_qubit_count	vendo
 1606.00077	TRUE	2016/6/1 0:08	2016	425220058	3	Google		1	Chiral groundstate currents of interacting photons in a synthetic   magnetic field	
 1605.01351	TRUE	2016/5/4 17:14	2016	424947182	5	IBM		1	Demonstration of weight-four parity measurements in the surface code   architecture	
 1603.04821	TRUE	2016/3/15 19:03	2016	424447939	2	IBM		1	Procedure for systematically tuning up crosstalk in the cross resonance   gate	
-0	0				0	0	0		0	
 0	0				0	0	0		0	
 0	0				0	0	0		0	
 0	0				0	0	0		0	
